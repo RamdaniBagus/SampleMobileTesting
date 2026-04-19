@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>apidemo2</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f274deff-e6e8-450f-8e9d-9497b443b23e</testSuiteGuid>
+   <testCaseLink>
+      <guid>41359c7c-9eec-495a-a700-9f5111bd268c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mobile1/apidemo2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5f1c8fcb-f1e9-49f3-af7e-bf560c4cbf32</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_Shakespeare</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5f1c8fcb-f1e9-49f3-af7e-bf560c4cbf32</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Menu</value>
+         <variableId>7d108500-7bb4-4ca4-9d25-ccc1d64f01bc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5f1c8fcb-f1e9-49f3-af7e-bf560c4cbf32</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Text</value>
+         <variableId>0aaeb6a5-5fef-46e9-a885-0fd261878ba6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
