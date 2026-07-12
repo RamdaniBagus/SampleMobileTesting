@@ -15,7 +15,7 @@
       <guid>41359c7c-9eec-495a-a700-9f5111bd268c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Mobile1/apidemo2</testCaseId>
+      <testCaseId>Test Cases/Master/apidemo2</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>5f1c8fcb-f1e9-49f3-af7e-bf560c4cbf32</id>
